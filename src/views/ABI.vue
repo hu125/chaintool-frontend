@@ -1,7 +1,7 @@
 <template>
     <div class="abi">
         <Navigation></Navigation>
-
+       <Navigation></Navigation>
         <div class="scroll">
             <div class="container">
 
